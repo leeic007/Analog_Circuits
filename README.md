@@ -25,9 +25,9 @@
 :-- | :--: | :--: | :--:
 微电子器件 | 國立臺灣師範大學 | [半導體元件物理](http://ocw.lib.ntnu.edu.tw/course/view.php?id=258)-->[网盘](http://pan.baidu.com/s/1hrXkcjM) | [PDF]
 微电子电路 | Oxford University | [Microelectronic Circuits, Sedra/Smith.](https://www.amazon.com/Microelectronic-Circuits-Electrical-Computer-Engineering/dp/0199339139/ref=sr_1_1?ie=UTF8&qid=1480839982&sr=8-1&keywords=Microelectronic+Circuits&refinements=p_72%3A2661618011)-->[网盘](http://pan.baidu.com/s/1hr93K24)| [相关视频](http://list.youku.com/albumlist/show/id_22983227.html?sf=10101&spm=a2h0k.8191403.0.0)
-模拟集成电路基础 | McGraw Hill Education | [Design of Analog CMOS Integrated Circuits,2rd](https://www.amazon.com/Design-Analog-CMOS-Integrated-Circuits/dp/0072524936/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=ZDTE8Y6A5XRQR00J03XX)[书]-->[网盘](http://pan.baidu.com/s/1boYGnnh) | [其他](http://pan.baidu.com/s/1i4VgzFB)
-高级模拟集成电路 | Springer | [Analog Design Essentials, Sansen](https://www.amazon.com/Essentials-Springer-International-Engineering-Computer/dp/0387257462/ref=sr_1_1?ie=UTF8&qid=1480844881&sr=8-1&keywords=ANALOG+DESIGN+ESSENTIALS&refinements=p_72%3A2661618011)-->[高清PPT、PDF](http://pan.baidu.com/s/1eSJX0NC) | 其他
-射频集成电路基础 | Springer | [The design of CMOS radio-frequency integrated circuits](https://www.amazon.com/Essentials-Springer-International-Engineering-Computer/dp/0387257462/ref=sr_1_1?ie=UTF8&qid=1480844881&sr=8-1&keywords=ANALOG+DESIGN+ESSENTIALS&refinements=p_72%3A2661618011)-->[高清PPT、PDF](http://pan.baidu.com/s/1eSJX0NC) | 其他
+Analog IC | McGraw Hill Education | [Design of Analog CMOS Integrated Circuits,2rd](https://www.amazon.com/Design-Analog-CMOS-Integrated-Circuits/dp/0072524936/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=ZDTE8Y6A5XRQR00J03XX)[书]-->[网盘](http://pan.baidu.com/s/1boYGnnh) | [其他](http://pan.baidu.com/s/1i4VgzFB)
+高级Analog IC | Springer | [Analog Design Essentials, Sansen](https://www.amazon.com/Essentials-Springer-International-Engineering-Computer/dp/0387257462/ref=sr_1_1?ie=UTF8&qid=1480844881&sr=8-1&keywords=ANALOG+DESIGN+ESSENTIALS&refinements=p_72%3A2661618011)-->[高清PPT、PDF](http://pan.baidu.com/s/1eSJX0NC) | 其他
+RFIC基础 | Springer | [The design of CMOS radio-frequency integrated circuits](https://www.amazon.com/Essentials-Springer-International-Engineering-Computer/dp/0387257462/ref=sr_1_1?ie=UTF8&qid=1480844881&sr=8-1&keywords=ANALOG+DESIGN+ESSENTIALS&refinements=p_72%3A2661618011)-->[高清PPT、PDF](http://pan.baidu.com/s/1eSJX0NC) | 其他
 电力电子基础 | Addison-Wesley | [Principles of Power Electronics](https://www.amazon.com/Principles-Electronics-Verghese-Schlecht-Kassakian/dp/B003XVKP7G/ref=sr_1_1?ie=UTF8&qid=1480851723&sr=8-1&keywords=Principles+of+Power+Electronics) | 参考
 
 
@@ -43,6 +43,7 @@ Cadence_SPB(PSpice & PCB) | www.sig007.com | [于博士Cadence视频教程60集全套](htt
 Altium Designer(PCB) | 暂无 | 暂无 | 其他
 ADS | Keysight | 视频 | 书籍
 
+
 ### <h3 id="module_design">电路模块设计</h3>
 
 ### <h3 id="system_begin">系统设计入门</h3>
@@ -51,6 +52,7 @@ ADS | Keysight | 视频 | 书籍
 :-- | :--: | :--: | :--:
 Matlab | | |
 Verilog-AMS | | |
+
 
 利用ModelWriter
 

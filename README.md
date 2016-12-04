@@ -24,16 +24,20 @@
 课程 | 机构 | 资源 | 其他参考
 :-- | :--: | :--: | :--:
 微电子器件 | 國立臺灣師範大學 | [半導體元件物理](http://ocw.lib.ntnu.edu.tw/course/view.php?id=258)-->[网盘](http://pan.baidu.com/s/1hrXkcjM) | [PDF]
-微电子电路 | Oxford University | [Microelectronic Circuits, Sedra/Smith.](https://www.amazon.com/Microelectronic-Circuits-Electrical-Computer-Engineering/dp/0199339139/ref=sr_1_1?ie=UTF8&qid=1480839982&sr=8-1&keywords=Microelectronic+Circuits&refinements=p_72%3A2661618011)-->[网盘](http://pan.baidu.com/s/1hr93K24)| [相关视频](http://list.youku.com/albumlist/show/id_22983227.html?sf=10101&spm=a2h0k.8191403.0.0)
-Analog IC | McGraw Hill Education | [Design of Analog CMOS Integrated Circuits,2rd](https://www.amazon.com/Design-Analog-CMOS-Integrated-Circuits/dp/0072524936/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=ZDTE8Y6A5XRQR00J03XX)[书]-->[网盘](http://pan.baidu.com/s/1boYGnnh) | [其他](http://pan.baidu.com/s/1i4VgzFB)
-高级Analog IC | Springer | [Analog Design Essentials, Sansen](https://www.amazon.com/Essentials-Springer-International-Engineering-Computer/dp/0387257462/ref=sr_1_1?ie=UTF8&qid=1480844881&sr=8-1&keywords=ANALOG+DESIGN+ESSENTIALS&refinements=p_72%3A2661618011)-->[高清PPT、PDF](http://pan.baidu.com/s/1eSJX0NC) | 其他
-RFIC基础 | Springer | [The design of CMOS radio-frequency integrated circuits](https://www.amazon.com/Essentials-Springer-International-Engineering-Computer/dp/0387257462/ref=sr_1_1?ie=UTF8&qid=1480844881&sr=8-1&keywords=ANALOG+DESIGN+ESSENTIALS&refinements=p_72%3A2661618011)-->[高清PPT、PDF](http://pan.baidu.com/s/1eSJX0NC) | 其他
+微电子电路 | Oxford University | [Microelectronic Circuits, Sedra/Smith.](https://www.amazon.com/Microelectronic-Circuits-Electrical-Computer-Engineering/dp/0199339139/ref=sr_1_1?ie=UTF8&qid=1480839982&sr=8-1&keywords=Microelectronic+Circuits&refinements=p_72%3A2661618011)-->[网盘](http://pan.baidu.com/s/1hr93K24)| [视频](http://list.youku.com/albumlist/show/id_22983227.html?sf=10101&spm=a2h0k.8191403.0.0)
+Analog_IC(1) | McGraw Hill | [Design of Analog CMOS Integrated Circuits,2rd](https://www.amazon.com/Design-Analog-CMOS-Integrated-Circuits/dp/0072524936/ref=pd_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=ZDTE8Y6A5XRQR00J03XX)[书]-->[网盘](http://pan.baidu.com/s/1boYGnnh) | [其他](http://pan.baidu.com/s/1i4VgzFB)
+Analog_IC(2) | Springer | [Analog Design Essentials, Sansen](https://www.amazon.com/Essentials-Springer-International-Engineering-Computer/dp/0387257462/ref=sr_1_1?ie=UTF8&qid=1480844881&sr=8-1&keywords=ANALOG+DESIGN+ESSENTIALS&refinements=p_72%3A2661618011)-->[高清PPT、PDF](http://pan.baidu.com/s/1eSJX0NC) | 其他
+RFIC基础 | Springer | [The design of CMOS radio-frequency integrated circuits](https://www.amazon.com/Design-Radio-Frequency-Integrated-Circuits-Second/dp/0521835399/ref=sr_1_1?ie=UTF8&qid=1480856253&sr=8-1&keywords=The+design+of+CMOS+radio-frequency+integrated+circuits&refinements=p_72%3A2661618011) | 其他
 电力电子基础 | Addison-Wesley | [Principles of Power Electronics](https://www.amazon.com/Principles-Electronics-Verghese-Schlecht-Kassakian/dp/B003XVKP7G/ref=sr_1_1?ie=UTF8&qid=1480851723&sr=8-1&keywords=Principles+of+Power+Electronics) | 参考
 
 
 ---
 ## <h2 id="learning_route">推荐学习路线</h2>
 ### <h3 id="circuit_basis">电路基础</h3>
+课程 | 机构 | 资源 | 其他参考
+:-- | :--: | :--: | :--:
+待补充 | 待补充 | 待补充 | 待补充
+
 ### <h3 id="software_guidelines">软件快速上手</h3>
 课程 | 机构 | 资源 | 其他参考
 :-- | :--: | :--: | :--:
@@ -43,22 +47,26 @@ Cadence_SPB(PSpice & PCB) | www.sig007.com | [于博士Cadence视频教程60集全套](htt
 Altium Designer(PCB) | 暂无 | 暂无 | 其他
 ADS | Keysight | 视频 | 书籍
 
-
 ### <h3 id="module_design">电路模块设计</h3>
+课程 | 机构 | 资源 | 其他参考
+:-- | :--: | :--: | :--:
+待补充 | 待补充 | 待补充 | 待补充
 
 ### <h3 id="system_begin">系统设计入门</h3>
 - 语言描述类
+
 课程 | 机构 | 资源 | 其他参考
 :-- | :--: | :--: | :--:
 Matlab | | |
 Verilog-AMS | | |
 
-
 利用ModelWriter
 
 - 系统设计类
+
 课程 | 机构 | 资源 | 其他参考
 :-- | :--: | :--: | :--:
+暂空 | 暂空 | 暂空 | 暂空
 
 
 ---
@@ -80,8 +88,8 @@ Verilog-AMS | | |
 ---
 
 ## <h2 id="special_field">专项领域学习</h2>
-- 射频集成电路（RFIC）
-- 电源管理（PM）
-- 混合集成电路（Mixed-Signal IC）
-- 系统与建模（System and Modeling）
-- 验证、测试与测量（Verification、Testing & Measurement）
+- [射频集成电路（RFIC）](#RFIC)
+- [电源管理（PM）](#PM)
+- [混合集成电路（Mixed-Signal IC）](#Mixed-Signal_IC)
+- [系统与建模（System & Modeling）](#System_Modeling)
+- [验证、测试与测量（Verification、Testing & Measurement）](#Verification_Testing_Measurement)
